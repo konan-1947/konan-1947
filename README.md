@@ -1,1 +1,3 @@
-![591258603_772076395878253_7189402180079637229_n](https://github.com/user-attachments/assets/01cf1779-efb8-45e6-b89a-bcc871d73f28)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/01cf1779-efb8-45e6-b89a-bcc871d73f28" />
+</div>
