@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/01cf1779-efb8-45e6-b89a-bcc871d73f28" />
+  ![Gi_nguyn_tt_202601151650](https://github.com/user-attachments/assets/c41b9ae3-c141-4f53-860e-7bf786c6b45b)
 </div>
