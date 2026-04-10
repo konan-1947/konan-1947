@@ -34,14 +34,18 @@
   Wrangling, Zesting, Zigzagging,..."
 
 
-
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=konan-1947&label=Profile%20views&color=0e75b6&style=flat" alt="konan-1947" />
+</p>
 
-
+<p align="center">
   <img src="https://github-readme-stats-eight-liart-90.vercel.app/api?username=konan-1947&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konan-1947&theme=default&hide_border=true" />
+</p>
 
-
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=konan-1947&theme=github&hide_border=true" />
+</p>
