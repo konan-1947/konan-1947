@@ -45,7 +45,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konan-1947&theme=default&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=konan-1947&theme=github&hide_border=true" />
-</p>
